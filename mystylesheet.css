@@ -1,6 +1,14 @@
-nav ul a{ 
-    background-color: #2B3C41;
+
+
+.maincolour {
+    background: #2B3C41 ;
+
 }
-footer {
-    background-color: #2B3C41 ;
+.navlinks {
+    color:white;
 }
+
+img {
+    object-fit: contain;
+}
+
