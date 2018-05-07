@@ -1,11 +1,6 @@
-nav {
+#nav ul li:hover a{ 
     background-color: #2B3C41;
 }
-
-a {
-    color: aliceblue;
-}
-
 footer {
     background-color: #2B3C41 ;
 }
