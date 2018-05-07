@@ -4,18 +4,18 @@ This website is being created as a prototype but also as a request for the clien
 
 ## Languages used to create this site.
 
-HTML
->
-CSS
->
+HTML  
+
+CSS  
+
 Javascript
 
 ## Mechanics on the site
 
-Gallery/Slideshow
->
-Navigation Bar
->
-Ticket/Booking request
->
+Gallery/Slideshow  
+
+Navigation Bar  
+
+Ticket/Booking request  
+
 Testimonys
