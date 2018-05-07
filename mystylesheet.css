@@ -1,6 +1,9 @@
 nav {
     background-color: #2B3C41;
-    text-decoration-color: aliceblue;
+}
+
+a {
+    color: aliceblue;
 }
 
 footer {
